@@ -1,0 +1,18 @@
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module\obj\Debug\WF2oWFN Module.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module\obj\Debug\WF2oWFN Module.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Plugins\StandardActivities.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Plugins\StandardActivities.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Modules\StandardActivities.dll.config
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Modules\StandardActivities.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Modules\StandardActivities.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Debug\StandardActivities.dll.config
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Debug\StandardActivities.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Debug\StandardActivities.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Debug\log4net.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Debug\WF2oWFN Module API.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Debug\WF2oWFN Module API.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Debug\WF2oWFN Module API.xml
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\obj\Debug\StandardActivities.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\obj\Debug\StandardActivities.pdb

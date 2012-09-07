@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\LogCodeActivity\bin\Debug\LogCodeActivity.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\LogCodeActivity\bin\Debug\LogCodeActivity.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\LogCodeActivity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\LogCodeActivity\obj\Debug\LogCodeActivity.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\LogCodeActivity\obj\Debug\LogCodeActivity.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\LogCodeActivity\bin\Debug\wf2owfnapi.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\LogCodeActivity\bin\Debug\LogCodeActivity.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\LogCodeActivity\bin\Debug\LogCodeActivity.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\LogCodeActivity\bin\Debug\wf2owfnapi.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\LogCodeActivity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\LogCodeActivity\obj\Debug\LogCodeActivity.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\LogCodeActivity\obj\Debug\LogCodeActivity.pdb

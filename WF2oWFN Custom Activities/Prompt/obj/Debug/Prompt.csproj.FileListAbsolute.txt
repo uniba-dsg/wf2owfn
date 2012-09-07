@@ -1,0 +1,12 @@
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\Prompt\bin\Debug\Prompt.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\Prompt\bin\Debug\Prompt.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\Prompt\bin\Debug\wf2owfnapi.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\Prompt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\Prompt\obj\Debug\Prompt.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\LogCodeActivity\Prompt\obj\Debug\Prompt.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\Prompt\bin\Debug\Prompt.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\Prompt\bin\Debug\Prompt.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\Prompt\bin\Debug\wf2owfnapi.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\Prompt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\Prompt\obj\Debug\Prompt.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN Module\Custom Activities\Prompt\obj\Debug\Prompt.pdb

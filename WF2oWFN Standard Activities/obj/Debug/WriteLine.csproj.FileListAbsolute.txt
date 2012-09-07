@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WriteLine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Plugins\WriteLine.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Plugins\WriteLine.pdb
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WriteLine\obj\Debug\WriteLine.dll
+C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WriteLine\obj\Debug\WriteLine.pdb
