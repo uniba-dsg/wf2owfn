@@ -37,7 +37,7 @@ WF2oWFN is licensed under the LGPL Version 3 Open Source License.
 
 ## Usage
 
-Standardaufruf:
+Default invocation:
 
 ```bash
 wf2owfn /i=inputfile /o=outputfile /f=owfn
