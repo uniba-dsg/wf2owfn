@@ -12,6 +12,7 @@ WF2oWFN is licensed under the LGPL Version 3 Open Source License.
 ### Binary Distribution
 - Windows XP SP3 or higher (see [.NET 4 Framework](http://www.microsoft.com/en-us/download/details.aspx?id=17718))
 - [.NET Framework Version 4 Platform Update 1](http://msdn.microsoft.com/en-us/library/hh290669) or higher in *4.x* revision
+- Optional: [Graphviz DOT](http://www.graphviz.org/) - Used for generating layouted graphs. Therefore `dot.exe` should be listed in `PATH` environment variable. 
   
 ### Source Distribution
 - Windows XP SP3 or higher (see [.NET 4 Framework](http://www.microsoft.com/en-us/download/details.aspx?id=17718))
@@ -21,7 +22,7 @@ WF2oWFN is licensed under the LGPL Version 3 Open Source License.
     - [log4net](http://csharp-source.net/open-source/logging/log4net) - Used for logging capabilities
     - [TestAPICore](http://testapi.codeplex.com/) - Used for commandline parsing. 
     - [PNAPI](http://download.gna.org/service-tech/pnapi/) - Used for Graphviz [DOT](http://www.graphviz.org/doc/info/lang.html) output.
-    - [Graphviz DOT](http://www.graphviz.org/) - Used for generating layouted graphs. Therefore `dot.exe` must be listed in `PATH` environment variable. 
+    - [Graphviz DOT](http://www.graphviz.org/) - Used for generating layouted graphs. Therefore `dot.exe` should be listed in `PATH` environment variable. 
 
 ## Compilation
 
