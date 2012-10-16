@@ -72,4 +72,4 @@ LGPL Version 3: [http://www.gnu.org/licenses/lgpl-3.0.html](http://www.gnu.org/l
 
 # Authors (in alphabetical order)
 
-[Stefan Kolb](http://www.uni-bamberg.de/pi/)
+[Stefan Kolb](http://www.uni-bamberg.de/pi/team/kolb-stefan/)
