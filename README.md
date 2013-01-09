@@ -4,7 +4,8 @@ WF2oWFN is a tool to translate Windows Workflow 4 (WF) processes into Open Workf
 Both Xaml workflows and Xamlx workflow services are supported.
 WF2oWFN integrates with a variety of tools from [service-technology.org](http://service-technology.org) to check for behavioral properties like deadlocking, controllability or automatic adapter synthesis. 
 
-A compiled [binary distribution](https://github.com/downloads/uniba-dsg/wf2owfn/wf2owfn-0.1.zip) and a large [test collection](https://github.com/downloads/uniba-dsg/wf2owfn/compiler-testcases.zip) with sample outputs is available under [downloads](https://github.com/uniba-dsg/wf2owfn/downloads).
+A compiled [binary distribution](https://github.com/uniba-dsg/wf2owfn/blob/master/wf2owfn-0.1.zip) and a large [test collection](https://github.com/uniba-dsg/wf2owfn/blob/master/compiler-testcases.zip) with sample outputs is available.
+Moreover, we also supply an inofficial [WF Xaml specification](https://github.com/uniba-dsg/wf2owfn/blob/master/wf-xaml-vocabulary-specification.pdf) that is used by our compiler. 
 
 WF2oWFN is licensed under the LGPL Version 3 Open Source License.
 
