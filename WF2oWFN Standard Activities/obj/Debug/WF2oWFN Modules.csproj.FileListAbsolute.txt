@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Plugins\WF2oWFN Module.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN\bin\Debug\Plugins\WF2oWFN Module.pdb
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module\obj\Debug\WF2oWFN Module.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module\obj\Debug\WF2oWFN Module.pdb

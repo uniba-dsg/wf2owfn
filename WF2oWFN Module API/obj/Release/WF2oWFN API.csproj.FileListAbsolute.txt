@@ -1,8 +1,0 @@
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module API\bin\Release\WF2oWFN Module API.dll.config
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module API\bin\Release\WF2oWFN Module API.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module API\bin\Release\WF2oWFN Module API.pdb
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module API\bin\Release\log4net.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module API\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module API\obj\Release\WF2oWFN Module API.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module API\obj\Release\WF2oWFN Module API.pdb
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Module API\bin\Release\log4net.xml

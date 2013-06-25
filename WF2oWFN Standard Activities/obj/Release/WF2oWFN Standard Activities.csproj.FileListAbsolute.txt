@@ -1,9 +1,0 @@
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Release\StandardActivities.dll.config
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Release\StandardActivities.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Release\StandardActivities.pdb
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Release\log4net.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Release\WF2oWFN Module API.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\bin\Release\WF2oWFN Module API.pdb
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\obj\Release\StandardActivities.dll
-C:\Users\Stefan\Desktop\ma-11-ws-kolb\Visual Studio Projects\WF2oWFN\WF2oWFN Standard Activities\obj\Release\StandardActivities.pdb
