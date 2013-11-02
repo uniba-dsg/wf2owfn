@@ -7,7 +7,7 @@ WF2oWFN integrates with a variety of tools from [service-technology.org](http://
 A compiled [binary distribution](https://github.com/uniba-dsg/wf2owfn/blob/master/wf2owfn-0.1.zip) and a large [test collection](https://github.com/uniba-dsg/wf2owfn/blob/master/compiler-testcases.zip) with sample outputs is available.
 Moreover, we also supply an inofficial [WF Xaml specification](https://github.com/uniba-dsg/wf2owfn/blob/master/wf-xaml-vocabulary-specification.pdf) that is used by our compiler. 
 
-More information can be found in the paper [Bridging the Heterogeneity of Orchestrations - A Petri Net-based Integration of BPEL and Windows Workflow](http://www.uni-bamberg.de/pi/bereich/forschung/publikationen/12-03-lenhard-wirtz-kolb/) or in the thesis [Integration heterogener Prozesssysteme in Service-orientierten Architekturen](https://github.com/uniba-dsg/wf2owfn/blob/master/integration-heterogener-prozessbasierter-systeme.pdf).
+More information can be found in the paper [Bridging the Heterogeneity of Orchestrations - A Petri Net-based Integration of BPEL and Windows Workflow](http://www.uni-bamberg.de/pi/bereich/forschung/publikationen/12-03-lenhard-wirtz-kolb/) or in the thesis [Integration heterogener Prozesssysteme in Service-orientierten Architekturen](https://github.com/uniba-dsg/wf2owfn/blob/master/integration-heterogener-prozessbasierter-systeme.pdf). The [presentation](https://github.com/uniba-dsg/wf2owfn/blob/master/soca-12-presentation.pdf) held at SOCA '12 also gives a short overview over the work.
 
 WF2oWFN is licensed under the LGPL Version 3 Open Source License.
 
