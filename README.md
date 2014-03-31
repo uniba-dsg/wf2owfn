@@ -73,6 +73,6 @@ Possible values:  `OFF`, `ERROR`, `WARN`, `INFO`, `DEBUG` (default = `INFO`)
 ## Licensing
 LGPL Version 3: [http://www.gnu.org/licenses/lgpl-3.0.html](http://www.gnu.org/licenses/lgpl-3.0.html)
 
-# Authors (in alphabetical order)
+# Authors
 
 [Stefan Kolb](http://www.uni-bamberg.de/pi/team/kolb-stefan/)
